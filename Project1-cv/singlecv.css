@@ -1,0 +1,9 @@
+body{
+    border: solid;
+    padding: 20px;
+    margin: 20px;
+}
+.line{
+    border-bottom: solid;
+    width: 55%;
+}
